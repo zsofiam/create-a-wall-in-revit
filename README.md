@@ -1,3 +1,3 @@
 # revit-plugin-create-wall
 
-Egy revit plugint kéne írni ami feldob egy formot amin két koordinátát be tudsz írni. ha rányomsz a gombra ott le kell a kettő között generálnia egy falat m1 hogy milyen falat, mindegy hogy írsz-e magasságot stb
+A Revit plugin which displays a form which asks for 2 coordinates. If you press the button, the program generates a wall between the 2 coordinates (wall type, height is optional).
